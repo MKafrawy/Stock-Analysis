@@ -1,9 +1,8 @@
 
-#Stock Analysis For APPLE, AMAZON, MICROSOFT, Tesla, META
+# Stock Analysis For APPLE, AMAZON, MICROSOFT, Tesla, META
 
 ## Overview
 
-![Overview](Overview.JPG)
 
 ### Key Financial Metrics
 - **Price**: The current stock price is valued at $2.09K.
@@ -33,4 +32,9 @@
 These visuals provide a comprehensive overview of Apple Inc.'s financial performance and trends over time, making it easier to analyze the company's stock performance.
 
 These Screenshots:
+![Overview](https://github.com/user-attachments/assets/b1c3387a-438a-467d-8a92-9bd795e6e393)
+![Historical Metrics](https://github.com/user-attachments/assets/2abcb758-2aa6-4861-b3ba-437c2375cb24)
+![Profile](https://github.com/user-attachments/assets/9dbe8f39-2b89-4fc2-9581-eaac400763a9)
+
+
 
