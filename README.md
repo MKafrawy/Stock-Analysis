@@ -1,5 +1,5 @@
 
-# Apple Inc. Stock Analysis
+#Stock Analysis For APPLE, AMAZON, MICROSOFT, Tesla, META
 
 ## Overview
 
