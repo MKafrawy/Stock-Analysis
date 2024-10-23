@@ -31,6 +31,8 @@
 
 These visuals provide a comprehensive overview of Apple Inc.'s financial performance and trends over time, making it easier to analyze the company's stock performance.
 
+for live dashboards: ![Live Dasboards](https://app.powerbi.com/groups/me/reports/4a2807e1-9240-4e54-a934-aea7451b588b/ReportSection?experience=power-bi)
+
 These Screenshots:
 ### Overview
 ![Overview](https://github.com/user-attachments/assets/b1c3387a-438a-467d-8a92-9bd795e6e393)<br>
